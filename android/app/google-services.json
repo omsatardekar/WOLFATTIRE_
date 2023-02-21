@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248097177713",
+    "project_id": "wolfattire-dd",
+    "storage_bucket": "wolfattire-dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248097177713:android:b29fa88c55ac3d63a09bd0",
+        "android_client_info": {
+          "package_name": "com.WOLFATTIRE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248097177713-tstd2d1o0q58o2ol5o9ibe34udsjsd5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbOAayAPTrZYSUIhozRXm2SV4hlv4EIzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248097177713-tstd2d1o0q58o2ol5o9ibe34udsjsd5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
